@@ -1,8 +1,9 @@
 html, body {
-  margin: 0;
-  padding: 0;
+  margin: auto;
+  padding: auto;
   color: white;
-  background-color: RGB(163, 197, 247);
+  background-color: rgb(25, 69, 79);
+  background-image: url("pbg-1.png");
 }
 canvas {
   margin: auto;
@@ -12,9 +13,12 @@ canvas {
 h1, p {
   text-align: center;
 font-family: "dynapuff", casual typeface;
+  font-size: 2em;
+  white-space: nowrap;
 }
 
 h2, a {
 color: white;
 font-family: "dynapuff", casual typeface; 
+  font-size: 2em;
 }
