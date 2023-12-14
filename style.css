@@ -22,3 +22,10 @@ color: white;
 font-family: "dynapuff", casual typeface; 
   font-size: 2em;
 }
+main {
+width: 960px;
+margin: 10px auto;
+}
+figure {
+margin: 0;
+}
